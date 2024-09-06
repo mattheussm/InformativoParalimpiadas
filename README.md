@@ -31,9 +31,10 @@ Este projeto, desenvolvido durante a imersão da Alura, tem como objetivo criar 
 
 1. **Clonar o repositório:**
    ```bash
-   git clone
+   git clone https://github.com/mattheussm/InformativoParalimpiadas
 2. Abrir o projeto: Abra o arquivo index.html em um navegador web.
-Contribuições:
+
+**Contribuições:**
 
 Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra um issue.   
 
@@ -41,11 +42,12 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma su
 Autores:
 
 Matheus Vasconcelos
-Agradecimentos:
+
+**Agradecimentos:**
 
 Agradeço à Alura pela oportunidade de participar da imersão e pela comunidade de desenvolvedores que me ajudou a aprender e crescer.
 
-Próximos Passos:
+**Próximos Passos:**
 
 Implementar a funcionalidade para exibir mais informações sobre os principais atletas de cada país.
 Adicionar mais opções de filtragem.
